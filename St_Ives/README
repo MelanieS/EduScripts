@@ -1,4 +1,4 @@
-Code that solves the "As I was going to St Ives" nursery rhyme:
+This code "solves" the 'As I was going to St Ives' nursery rhyme:
 
 As I was going to St Ives
 I met a man with seven wives
@@ -9,4 +9,7 @@ Kits, cats, sacks, wives.
 How many were going to St Ives?
 
 
-The number of travelers includes the man, his wives, sacks, cats, kittens, and the narrator.
+The number of travelers solved for includes the man, his wives, sacks, cats, kittens, and the narrator.
+
+This problem was presented to me on take-home math test and I found that the most orderly way for me to
+solve it was programmatically.
