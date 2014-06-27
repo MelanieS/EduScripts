@@ -1,14 +1,3 @@
-#simple fibonacci script, doesn't utilize recursion
-
-puts "               __"
-puts "              / _)"
-puts "     _.----._/ /"
-puts "    / melanie /"
-puts " __/ (  | (  |"
-puts "/__.-'|_|--|_|"
-puts
-
-
 puts "How many Fibonacci numbers would you like?"
 n = gets.to_i
 puts "Awesome! I'll get started on that right away!"
